@@ -229,7 +229,7 @@ Add screenshots here:
 Frontend:
 
 ```text
-https://your-frontend.vercel.app
+[intern-assignment-task-frontend.vercel.app](https://intern-assignment-task-frontend.vercel.app/)
 ```
 
 Backend:
